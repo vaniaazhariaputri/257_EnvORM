@@ -3,3 +3,4 @@ POST
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/64de0695-a3e2-4301-9ec3-61941cb54c6c" />
 GET
 <img width="1897" height="998" alt="image" src="https://github.com/user-attachments/assets/6e0a7723-f645-4f36-a61e-0f36310f54d7" />
+PUT
